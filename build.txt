@@ -1,0 +1,3 @@
+displayName = MooMoo's Yoyo Lib
+author = MooMoo
+version = 0.1.1
