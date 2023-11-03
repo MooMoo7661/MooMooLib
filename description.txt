@@ -1,4 +1,4 @@
 This mod is made for me to use code with less breakage, as well as more stuff that I can use across mods.
 At the moment, all it does is let you add custom yoyo string textures to a dictionary,  as well as extend player.stringColor to use more colors for specific values.
 I'm also still fairly inexperienced with programming, so this likely has a lot of non-optimal things, or restrictions.
-I'm always down to improve or take suggestions, so feel free to contact me on Discord.
+I'm always down to improve or take suggestions, so feel free to contact me on Discord (moomoo.dll).
